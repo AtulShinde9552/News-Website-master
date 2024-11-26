@@ -36,9 +36,9 @@ export const hero = [
   },
   {
     id: 2,
-    cover: "../images/hero/hero2.jpg",
-    catgeory: "sport",
-    title: "More than billion football fans attend Brazil world cup",
+    cover: "../images/img/banner-04.jpg",
+    catgeory: "Election",
+    title: "Trump pulls off historic White House comeback",
     authorName: "alex",
     authorImg: "../images/author.jpg",
     time: "12 Aug - 2024",
@@ -545,16 +545,16 @@ export const ppost = [
   {
     id: 2,
     catgeory: "health",
-    title: "6 Reasons Why You Shouldn’t Skip Breakfast",
+    title: "Cape Verde become first country to name stadium after Pele",
     date: "19. February 2024",
-    cover: "../images/ppost/pop2.jpg",
+    cover: "../images/img/pele1.jpg",
   },
   {
     id: 3,
     catgeory: "food",
-    title: "Our Top 5 Restaurants For A Complete Culinary Experience",
+    title: "Biden aims to finalize clean fuel rule before leaving White House",
     date: "19. February 2024",
-    cover: "../images/ppost/pop3.jpg",
+    cover: "../images/img/usUkraine.jpg",
   },
   {
     id: 4,
@@ -630,27 +630,27 @@ export const gallery = [
 ]
 export const discover = [
   {
-    title: "games",
+    title: "Trending Stories",
     cover: "../images/discover/d1.jpg",
   },
   {
-    title: "sports",
+    title: "Hot Topic: Ai",
     cover: "../images/discover/d2.jpg",
   },
   {
-    title: "humour",
+    title: "Articles",
     cover: "../images/discover/d3.jpg",
   },
   {
-    title: "gadgets",
+    title: "Branded Insights",
     cover: "../images/discover/d4.jpg",
   },
   {
-    title: "movies",
+    title: "Whitepaper",
     cover: "../images/discover/d5.jpg",
   },
   {
-    title: "nitendo",
+    title: "Tech Memes",
     cover: "../images/discover/d6.jpg",
   },
 ]
