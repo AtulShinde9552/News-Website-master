@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from "react"
 import { useParams } from "react-router-dom"
 import { hero } from "../../dummyData"
+import { popular } from "../../dummyData"
 import Side from "../home/sideContent/side/Side"
 import "../home/mainContent/homes/style.css"
 import "./singlepage.css"
@@ -13,6 +14,14 @@ const SinglePage = () => {
 
   useEffect(() => {
     const item = hero.find((item) => item.id === parseInt(id))
+    window.scrollTo(0, 0)
+    if (item) {
+      setItem(item)
+    }
+  }, [id])
+
+  useEffect(() => {
+    const item = popular.find((item) => item.id === parseInt(id))
     window.scrollTo(0, 0)
     if (item) {
       setItem(item)
