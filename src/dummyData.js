@@ -453,10 +453,4 @@ export const discover = [
   },
 ]
 {
-  /*<p>Busan is an amazing magazine Blogger theme that is easy to customize for your needs</p>
-  <p>Google To Boost Android Security In Few Days</p>
-  <p>Cespedes play the winning Baseball Game</p>
-  <p>US Promises to give Intel aid to locate the soldiers</p>
-
-*/
 }
