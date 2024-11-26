@@ -9,7 +9,7 @@ const Head = () => {
             <img src='../images/CompanyLogo.png' alt='' />
           </div>
           <div className='ad'>
-            <img src='../images/headerb.png' alt='' />
+            <img src='../images/advertttt.gif' alt='' />
           </div>
         </div>
       </section>
