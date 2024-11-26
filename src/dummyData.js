@@ -551,7 +551,7 @@ export const ppost = [
   },
   {
     id: 3,
-    catgeory: "food",
+    catgeory: "Election",
     title: "Biden aims to finalize clean fuel rule before leaving White House",
     date: "19. February 2024",
     cover: "../images/img/usUkraine.jpg",

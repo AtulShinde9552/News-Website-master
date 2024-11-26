@@ -18,7 +18,7 @@ const Side = () => {
     slidesToScroll: 1,
   }
 
-  const catgeory = ["world", "travel", "sport", "fun", "health", "fashion", "business", "technology"]
+  const catgeory = ["Trending Stories", "Artificial Intelligence (AI)", "News", "Articles", "Branded Insights", "Events & Webinars", "Tech Memes", "Dictionary"]
   return (
     <>
       <Heading title='Stay Connected' />
